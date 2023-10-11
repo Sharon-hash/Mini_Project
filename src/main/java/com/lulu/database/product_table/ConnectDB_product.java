@@ -19,7 +19,7 @@ public class ConnectDB_product {
 
          connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/sharon",
 
-            "root", "Sharon@2001");
+            " ", " ");
 
 	}
 
